@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>86509313709-mc8ik7q270gp49alko8pji1la2p1k2h6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.86509313709-mc8ik7q270gp49alko8pji1la2p1k2h6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>86509313709-mo43338f8hg2k4lestrpp7ak0e9d3d81.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnS3pVebmnoQX7HlIuQxuSZW8c7gsjY8M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>86509313709</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jp.co.mylab.news-mobile</string>
+	<key>PROJECT_ID</key>
+	<string>mylab-1573433266529</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mylab-1573433266529.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:86509313709:ios:9cb304d979db5df0353024</string>
+	<key>DATABASE_URL</key>
+	<string>https://mylab-1573433266529.firebaseio.com</string>
+</dict>
+</plist>

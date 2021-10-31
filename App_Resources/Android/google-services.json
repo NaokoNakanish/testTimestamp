@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "86509313709",
+    "firebase_url": "https://mylab-1573433266529.firebaseio.com",
+    "project_id": "mylab-1573433266529",
+    "storage_bucket": "mylab-1573433266529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86509313709:android:ab9ae3dee2a4a716353024",
+        "android_client_info": {
+          "package_name": "jp.mylab.co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86509313709-mo43338f8hg2k4lestrpp7ak0e9d3d81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.mylab.co",
+            "certificate_hash": "f641178a1fb33e22208e4f13524c12f244f4eddf"
+          }
+        },
+        {
+          "client_id": "86509313709-9he89io7297jkr527nkee18vk6knr17q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfrxgpMfyTndX6euYECjYd4OwXDQwKI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86509313709-9he89io7297jkr527nkee18vk6knr17q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86509313709-mc8ik7q270gp49alko8pji1la2p1k2h6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.mylab.news-mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
