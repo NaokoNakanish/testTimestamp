@@ -1,5 +1,4 @@
 import Vue from "nativescript-vue";
-
 import Home from "./components/Home";
 
 // Eddyさんの参照　https://github.com/EddyVerbruggen/nativescript-plugin-firebase#usage
