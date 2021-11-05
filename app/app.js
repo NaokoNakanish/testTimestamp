@@ -2,7 +2,7 @@ import Vue from "nativescript-vue";
 import Home from "./components/Home";
 
 // Eddyさんの参照　https://github.com/EddyVerbruggen/nativescript-plugin-firebase#usage
-var firebase = require("@nativescript/firebase").firebase;
+const firebase = require("@nativescript/firebase").firebase;
 
 firebase
   .init({
@@ -21,3 +21,5 @@ firebase
 new Vue({
   render: (h) => h("frame", [h(Home)]),
 }).$start();
+
+export default firebase;
